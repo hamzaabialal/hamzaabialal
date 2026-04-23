@@ -52,5 +52,6 @@
 
 ---
 
-> 💼 *“I write code that works like magic but reads like a story.”*  
+> 💼 *“I write code that works like magic but reads like a story.”*
+> My Portfolio (https://hamzabilal.dev/)
 > — Hamza (Future Dev in Europe 🇪🇺)
